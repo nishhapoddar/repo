@@ -1,1 +1,0 @@
-priny("hello world")
